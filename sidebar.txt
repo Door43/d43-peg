@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[peg:home|Door43 (peg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-peg|d43-peg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-peg/archive/master.zip|d43-peg.zip]]
+
+**Recent Changes**
+{{changes>ns = peg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/peg|Ethnologue data]]
+
